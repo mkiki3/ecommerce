@@ -1,5 +1,5 @@
 import React from 'react'
-export const Browse = () => {
+const Browse = () => {
   return <>Browse Page </>
 }
 //
